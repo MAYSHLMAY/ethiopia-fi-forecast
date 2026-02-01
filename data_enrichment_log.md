@@ -1,0 +1,119 @@
+# Data Enrichment Log
+
+## 2026-02-01
+- Added new observation:
+  - Indicator: Account Ownership Rate
+  - Value: 51%
+  - Date: 2025-01-01
+  - Source: World Bank
+  - Confidence: High
+  - Notes: Extrapolated from 2024 data
+  - Collected by: Mikiyas Dawit 
+
+- **2026-02-01** Added new record:
+  - record_id: REC_EVENT_001
+  - record_type: event
+  - category: product_launch
+  - pillar: None
+  - indicator: Telebirr Launch
+  - indicator_code: None
+  - indicator_direction: None
+  - value_numeric: None
+  - value_text: None
+  - value_type: None
+  - unit: None
+  - observation_date: 2021-05-01
+  - period_start: None
+  - period_end: None
+  - fiscal_year: 2021
+  - gender: None
+  - location: Ethiopia
+  - region: None
+  - source_name: National Bank of Ethiopia
+  - source_type: report
+  - source_url: https://nbe.gov.et
+  - confidence: high
+  - related_indicator: None
+  - relationship_type: None
+  - impact_direction: None
+  - impact_magnitude: None
+  - impact_estimate: None
+  - lag_months: None
+  - evidence_basis: Reported launch date
+  - comparable_country: None
+  - collected_by: Your Name
+  - collection_date: 2026-02-01
+  - original_text: Telebirr officially launched in May 2021 with over 10 million initial users.
+  - notes: Key product launch driving Access and Usage indicators.
+
+- **2026-02-01** Added new record:
+  - record_id: REC_EVENT_002
+  - record_type: event
+  - category: product_launch
+  - pillar: None
+  - indicator: M-Pesa Entry
+  - indicator_code: None
+  - indicator_direction: None
+  - value_numeric: None
+  - value_text: None
+  - value_type: None
+  - unit: None
+  - observation_date: 2023-08-01
+  - period_start: None
+  - period_end: None
+  - fiscal_year: 2023
+  - gender: None
+  - location: Ethiopia
+  - region: None
+  - source_name: Safaricom Reports
+  - source_type: report
+  - source_url: https://www.safaricom.com/ke/m-pesa
+  - confidence: high
+  - related_indicator: None
+  - relationship_type: None
+  - impact_direction: None
+  - impact_magnitude: None
+  - impact_estimate: None
+  - lag_months: None
+  - evidence_basis: Reported launch date
+  - comparable_country: None
+  - collected_by: Your Name
+  - collection_date: 2026-02-01
+  - original_text: M-Pesa entered Ethiopia in August 2023, now with over 10M users.
+  - notes: Important market entry impacting digital payments adoption.
+
+- **2026-02-01** Added new record:
+  - record_id: REC_OBS_002
+  - record_type: observation
+  - category: None
+  - pillar: USAGE
+  - indicator: Digital Payment Adoption Rate
+  - indicator_code: USG_DIGITAL_PAYMENT
+  - indicator_direction: higher_better
+  - value_numeric: 35.0
+  - value_text: None
+  - value_type: percentage
+  - unit: %
+  - observation_date: 2024-01-01
+  - period_start: None
+  - period_end: None
+  - fiscal_year: 2024
+  - gender: all
+  - location: Ethiopia
+  - region: None
+  - source_name: World Bank Global Findex
+  - source_type: survey
+  - source_url: https://globalfindex.worldbank.org
+  - confidence: high
+  - related_indicator: None
+  - relationship_type: None
+  - impact_direction: None
+  - impact_magnitude: None
+  - impact_estimate: None
+  - lag_months: None
+  - evidence_basis: Survey data
+  - comparable_country: None
+  - collected_by: Your Name
+  - collection_date: 2026-02-01
+  - original_text: Approximately 35% of adults reported using digital payments in 2024.
+  - notes: Helps enrich Usage trajectory for Task 1.
